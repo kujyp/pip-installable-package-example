@@ -20,7 +20,7 @@ def requirements():
         return ret
 
 
-setup(name='helloworld',
+setup(name='helloworld-kujyp',
       version=__version__,
       description=__description__,
       packages=find_packages(exclude=[]),
