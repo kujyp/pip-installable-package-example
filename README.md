@@ -1,0 +1,1 @@
+# pip-installable-package-example
